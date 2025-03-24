@@ -1,7 +1,5 @@
-import React from 'react'
-import { ModeToggle } from '../mode-toggle';
 import { Button } from '../ui/button';
-import { ArrowRight, Download, DownloadIcon, Github, GithubIcon, Linkedin, Play } from 'lucide-react';
+import { ArrowRight, DownloadIcon, Github, Linkedin } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import Mac from '../Extra/Mac';
 import BlurText from '../Animations/TextAnimation';

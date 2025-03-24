@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { motion } from "framer-motion"
-import { ChevronDown, ChevronDownCircle, ChevronUp, ChevronUpCircle } from "lucide-react"
+import { ChevronDownCircle, ChevronUpCircle } from "lucide-react"
 import Experience from "@/Data/Experiences"
 
 

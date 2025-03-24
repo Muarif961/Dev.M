@@ -1,4 +1,3 @@
-import React from 'react'
 import BentoGrid from '../Bento-grid'
 
 const About = () => {

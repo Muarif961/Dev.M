@@ -1,6 +1,5 @@
 import { useState } from "react"
 import { motion, AnimatePresence } from "framer-motion"
-import { Code, Database, Layers, Server, Smartphone } from "lucide-react"
 import { cn } from "@/lib/utils"
 import Tabs from "@/Data/TechStacks"
 

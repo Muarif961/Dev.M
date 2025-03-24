@@ -3,7 +3,7 @@ import { motion } from "framer-motion"
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { ExternalLink, Github, Smartphone, Globe } from "lucide-react"
+import { ExternalLink, Smartphone, Globe } from "lucide-react"
 import Project from "@/Data/Projects"
 
 // Project data - replace with your actual projects

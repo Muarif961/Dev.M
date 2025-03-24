@@ -1,5 +1,5 @@
 import NavItems from "@/Types/NavItems";
-import { Building2, Compass, FolderCheck, House, Info, Layers, MessageSquareText } from "lucide-react";
+import { Compass, FolderCheck, House, Info, Layers, MessageSquareText } from "lucide-react";
 
 const NavUls:NavItems[]=[
     {
